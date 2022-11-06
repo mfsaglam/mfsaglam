@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a self-taught iOS Developer.
+I'm a self-taught iOS Developer. I love what i do and improve myself everyday.
 
 
 ## 🔗 Links
