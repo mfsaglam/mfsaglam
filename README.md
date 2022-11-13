@@ -13,7 +13,7 @@ I'm a self-taught iOS Developer. I love what i do and improve myself everyday.
 
 Currently working at Huawei.
 
-Currently learning unit/ui tests in Xcode.
+Currently learning unit/ui tests / TDD in Xcode.
 
 Trying to master UIKit/SwiftUI/Combine frameworks.
 
