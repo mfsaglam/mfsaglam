@@ -15,7 +15,7 @@ Currently working at Huawei.
 
 Currently learning unit/ui tests / TDD.
 
-Trying to master UIKit/SwiftUI/Combine frameworks.
+Trying to master UIKit/SwiftUI/Combine frameworks / Clean Code Principles.
 
 Ask me about anything you want related iOS development.
 
