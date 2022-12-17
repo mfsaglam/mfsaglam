@@ -23,5 +23,5 @@ You can reach me with the links above.
 
 
 ## Skills
-Swift, Objective-C, UIKit, SwiftUI, Figma
+Swift, Objective-C, Unit/UI Tests, Clean Code/Solid Principes, UIKit, SwiftUI, Figma
 
