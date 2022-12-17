@@ -24,4 +24,5 @@ You can reach me with the links above.
 
 ## Skills
 Swift, Objective-C, Unit/UI Tests, Clean Code/Solid Principes, UIKit, SwiftUI, Figma
+[![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
