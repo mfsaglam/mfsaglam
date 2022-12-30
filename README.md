@@ -11,11 +11,11 @@ I'm a self-taught iOS Developer. I love what i do and improve myself everyday.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fatihios)
 
 
-Currently working at Huawei.
+Currently working at Adesso.
 
-Currently learning unit/ui tests / TDD.
+Currently learning TDD.
 
-Trying to master UIKit/SwiftUI/Combine frameworks / Clean Code Principles.
+Trying to master Combine framework / Clean Architecture.
 
 Ask me about anything you want related iOS development.
 
@@ -23,7 +23,7 @@ You can reach me with the links above.
 
 
 ## Skills
-Swift, Objective-C, Unit/UI Tests, Clean Code/Solid Principes, UIKit, SwiftUI, Figma
+Swift, Objective-C, Testing / Clean Architecture / Modular Design / Solid Principes, UIKit, SwiftUI, Figma
 
 [![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://docs.swift.org/swift-book/index.html)
 [![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
