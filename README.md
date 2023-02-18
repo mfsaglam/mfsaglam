@@ -1,5 +1,5 @@
 
-# Hi, I'm Fatih
+# Hi, I'm Fatih 👋
 
 
 ## About Me
