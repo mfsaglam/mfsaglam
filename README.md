@@ -25,7 +25,7 @@ You can reach me with the links above.
 ## Skills
 Swift, Objective-C, Testing / Clean Architecture / Modular Design / Solid Principes, UIKit, SwiftUI, Figma
 
-[![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://docs.swift.org/swift-book/index.html)
+[![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://docs.swift.org/)
 [![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/ui-design-tool/)
 
