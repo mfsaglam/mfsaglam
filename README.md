@@ -15,7 +15,7 @@ Currently working at adesso.
 
 Currently learning TDD.
 
-Trying to master Modular Design / Clean Architecture.
+Trying to master Modular Design / Clean Architecture / Modern Design Patterns.
 
 Ask me about anything you want related iOS development.
 
