@@ -13,9 +13,9 @@ I'm a self-taught iOS Developer. I love what i do and improve myself everyday.
 
 Currently working at adesso.
 
-Currently learning TDD.
+Currently mastering TDD.
 
-Trying to master Modular Design / Clean Architecture / Modern Design Patterns.
+Mastering Modular Design / Clean Architecture / Modern Design Patterns.
 
 Ask me about anything you want related iOS development.
 
